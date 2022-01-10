@@ -3,6 +3,7 @@ body{
 }
 section{
     display: flex;
+    margin-bottom: 50px;
 }
 .half-width{
     width: 50%;
@@ -29,4 +30,11 @@ h1{
     background-image: url(images/top-banner.png);
     margin: 0;
     background-repeat: no-repeat;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    margin: 0;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-position: right;
 }
