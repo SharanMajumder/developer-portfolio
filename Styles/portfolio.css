@@ -178,3 +178,37 @@ main{
      margin-top: 50px;
      text-align: center;
 }
+
+/* contact Styles */
+.contact{
+    margin-top: 113px;
+    display: flex;
+    gap: 117px;
+    background-color: #FFF8F3;
+    padding: 198px 218px;
+}
+.contact input,textarea{
+    margin-top: 24px;
+    border: 0;
+    padding-left: 30px;
+}
+.contact input{
+    height:64px ;
+    width: 461px;
+}
+.contact textarea{
+    width: 461px;
+    height: 180px;
+}
+.contact .section-title{
+    text-align: left;
+}
+.contact p{
+    height:56px ;
+    width: 562px;
+    margin-bottom: 30px;
+}
+.contact a{
+    text-decoration: none;
+    margin: 24px;
+}
