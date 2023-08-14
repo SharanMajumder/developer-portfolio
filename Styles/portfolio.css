@@ -108,3 +108,43 @@ main{
     font-size: 20px;
     color: #474747;
 }
+/* What i do style  */
+.section-title{
+    margin-top:130px ;
+    text-align: center;
+    font-weight: 700;
+    font size: 20px;
+    margin-bottom: 100px;
+}
+.skill-container{
+    display: flex;
+    gap:24px
+    
+}
+.skill-container img{
+    position: top left;
+    margin-bottom: 30px;
+    
+    
+}
+.skill{
+    margin-right: 24px;
+    background-color: white;
+    border: 25%;
+    padding: 30px;
+    border-radius: 5px;
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0,0,0,0.06);
+}
+.skill-title{
+    margin-top: 30px;
+    margin-bottom: 20px;
+
+}
+.skill-description{
+    color: #757575;
+
+}
+
+/* resuming style */
+
